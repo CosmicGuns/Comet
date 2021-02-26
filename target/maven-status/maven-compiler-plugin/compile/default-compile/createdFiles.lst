@@ -1,0 +1,8 @@
+net\velinquish\comet\Path.class
+net\velinquish\comet\commands\ReloadCommand.class
+net\velinquish\comet\commands\SpawnCommand.class
+net\velinquish\comet\CommandManager.class
+net\velinquish\comet\commands\SetItemCommand.class
+net\velinquish\comet\LocationManager.class
+net\velinquish\comet\Comet.class
+net\velinquish\comet\commands\VersionCommand.class

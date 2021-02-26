@@ -1,0 +1,11 @@
+Paths:
+    0:
+        world: 'world'
+        spawn:
+            x: 0
+            y: 0
+            z: 0
+        destination:
+            x: 0
+            y: 0
+            z: 0
